@@ -1,0 +1,14 @@
+C:\Users\Artur\RiderProjects\WEEK4_IT12_V2\WEEK4_IT12_V2\bin\Debug\net10.0\WEEK4_IT12_V2.exe
+C:\Users\Artur\RiderProjects\WEEK4_IT12_V2\WEEK4_IT12_V2\bin\Debug\net10.0\WEEK4_IT12_V2.deps.json
+C:\Users\Artur\RiderProjects\WEEK4_IT12_V2\WEEK4_IT12_V2\bin\Debug\net10.0\WEEK4_IT12_V2.runtimeconfig.json
+C:\Users\Artur\RiderProjects\WEEK4_IT12_V2\WEEK4_IT12_V2\bin\Debug\net10.0\WEEK4_IT12_V2.dll
+C:\Users\Artur\RiderProjects\WEEK4_IT12_V2\WEEK4_IT12_V2\bin\Debug\net10.0\WEEK4_IT12_V2.pdb
+C:\Users\Artur\RiderProjects\WEEK4_IT12_V2\WEEK4_IT12_V2\obj\Debug\net10.0\WEEK4_IT12_V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\RiderProjects\WEEK4_IT12_V2\WEEK4_IT12_V2\obj\Debug\net10.0\WEEK4_IT12_V2.AssemblyInfoInputs.cache
+C:\Users\Artur\RiderProjects\WEEK4_IT12_V2\WEEK4_IT12_V2\obj\Debug\net10.0\WEEK4_IT12_V2.AssemblyInfo.cs
+C:\Users\Artur\RiderProjects\WEEK4_IT12_V2\WEEK4_IT12_V2\obj\Debug\net10.0\WEEK4_IT12_V2.csproj.CoreCompileInputs.cache
+C:\Users\Artur\RiderProjects\WEEK4_IT12_V2\WEEK4_IT12_V2\obj\Debug\net10.0\WEEK4_IT12_V2.dll
+C:\Users\Artur\RiderProjects\WEEK4_IT12_V2\WEEK4_IT12_V2\obj\Debug\net10.0\refint\WEEK4_IT12_V2.dll
+C:\Users\Artur\RiderProjects\WEEK4_IT12_V2\WEEK4_IT12_V2\obj\Debug\net10.0\WEEK4_IT12_V2.pdb
+C:\Users\Artur\RiderProjects\WEEK4_IT12_V2\WEEK4_IT12_V2\obj\Debug\net10.0\WEEK4_IT12_V2.genruntimeconfig.cache
+C:\Users\Artur\RiderProjects\WEEK4_IT12_V2\WEEK4_IT12_V2\obj\Debug\net10.0\ref\WEEK4_IT12_V2.dll
